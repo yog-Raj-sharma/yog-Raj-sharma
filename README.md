@@ -8,7 +8,7 @@ B.E. in Electronics, Instrumentation & Control, Thapar Institute of Engineering 
 
 ### What I'm doing now
 
-- **Founder & Full-Stack Developer — [Tarini Pathways](#)** · a registered MSME cross-border education consultancy I designed, built, and deployed solo as a full-stack platform — product, engineering, and go-to-market.
+- **Founder & Full-Stack Developer — [Tarini Pathways](https://tarinipathways.com/)** · a registered MSME cross-border education consultancy I designed, built, and deployed solo as a full-stack platform — product, engineering, and go-to-market.
 - Looking for **Founding Engineer / Software Developer** roles where ownership is the job, not a perk.
 
 ---
