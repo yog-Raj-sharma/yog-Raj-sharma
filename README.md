@@ -20,8 +20,8 @@ B.E. in Electronics, Instrumentation & Control, Thapar Institute of Engineering 
 | **Tarini Pathways** | Cross-border education consultancy platform — built and deployed solo, end-to-end | https://tarinipathways.com/ |
 | **Hostel Hunt** | Hostel discovery platform; cut page-load time ~40% via parallel data fetching (`Promise.all`) and React Context | [Live](https://hostel-hunt-4.onrender.com) |
 | **Plate It** | Food/recipe web app | [Live](https://plate-it-52b6b.web.app) |
-| **Carpenter Booking System** | Service-booking platform | _repo_ |
-| **Crowd Monitoring (CSRNet)** | Crowd-density estimation using a CSRNet deep-learning model | _repo_ |
+| **Carpenter Booking System** | Service-booking platform | https://github.com/yog-Raj-sharma/Carpenter-Booking-APP |
+| **Crowd Monitoring (CSRNet)** | Crowd-density estimation using a CSRNet deep-learning model | https://github.com/yog-Raj-sharma/Crowd |
 
 A few proof points I'm proud of: **~40%** faster page loads on Hostel Hunt, and a **~95%** cut in a manual-process time during my SDE internship at Venture Lab by automating the workflow.
 
@@ -52,5 +52,5 @@ A few proof points I'm proud of: **~40%** faster page loads on Hostel Hunt, and 
 
 ---
 
-<!-- Optional: GitHub stats. Remove if you prefer a cleaner profile. -->
-![Yog's GitHub stats](https://github-readme-stats.vercel.app/api?username=yog-Raj-sharma&show_icons=true&hide_border=true)
+<!-- Optional: GitHub stats. Remove if you prefer a cleaner profile. 
+![Yog's GitHub stats](https://github-readme-stats.vercel.app/api?username=yog-Raj-sharma&show_icons=true&hide_border=true)-->
